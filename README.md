@@ -8,7 +8,7 @@ DeepSearch is a powerful Python-based OSINT utility that leverages Google's adva
 - **Automates Google Dorking**: Systematically applies 25+ advanced search operators
   
 - **Multi-Platform Intelligence**: Searches across social media, documents, forums, and more
-
+   
 - **Customizable Investigations**: Allows selective operator targeting based on investigation needs
   
 - **Browser Automation**: Optionally opens all search results in browser tabs
@@ -146,9 +146,9 @@ Select search operators (comma-separated or 'all')
 
 - **Operator Customization**: Mix and match from 25 specialized search operators
 
-- Batch Processing: Save URLs for multiple investigation sessions
+- **Batch Processing**: Save URLs for multiple investigation sessions
 
-- Selective Targeting: Focus on specific platform types (social, documents, etc.)
+- **Selective Targeting**: Focus on specific platform types (social, documents, etc.)
 
 
 
