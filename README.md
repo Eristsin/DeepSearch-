@@ -113,7 +113,7 @@ https://gist.github.com/techenthusiast167/eccc7f09284de678a4af6340eb4253b7
 
 **Tool Installation Process**
 
-- Open the link, copy the tool’s script and paste it in nano > **nano DeepSearch.py**
+- Open the link, copy the tool’s script and paste it in nano > **nano deepsearch.py**
   
 - Press **Ctrl + O, Enter, and Ctrl + X** to save and exit.
 
