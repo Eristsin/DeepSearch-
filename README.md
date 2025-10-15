@@ -1,4 +1,4 @@
-# DeekSearch
+# DeepSearch
 
 DeepSearch is a powerful Python-based OSINT utility that leverages Google's advanced search operators to perform comprehensive digital footprint analysis. The tool automates the process of gathering publicly available information about individuals across multiple platforms using customized search queries.
 
@@ -124,14 +124,14 @@ pip install colorama
 
 # Run the Tool
 
-    python deeksearch.py
+    python deepsearch.py
 
 
 # Usage
 
 **Basic Operation**
 
-- **Launch the tool**: python deeksearch.py
+- **Launch the tool**: python deepsearch.py
   
 - Enter target username when prompted
   
